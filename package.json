@@ -1,0 +1,10 @@
+{
+  "name": "emojilib.cr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hirofumi Wakasugi <baenej@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "emojilib": "^2.0.2"
+  }
+}
